@@ -25,7 +25,7 @@ body {
   z-index: 1;
 }
 
-.modal-content {
+.content {
   position: fixed;
   top: 40%;
   left: 50%;
@@ -42,7 +42,7 @@ body {
   font-family: sans-serif;
 }
 
-.modal-content p, .modal-content li {
+.content p, .content li {
   color: #8c43ff;
   font-family: 'Kanit', sans-serif;
 }
